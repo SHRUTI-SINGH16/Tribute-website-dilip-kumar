@@ -1,3 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+
 img {
     width: 100%;
+}
+
+.navbar ul{
+    /* border-right: 2px solid black; */
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: peru;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 80px; 
+}
+
+.navbar .active {
+    background-color: black;
+    color: white;
+}
+
+.navbar a:hover {
+    background-color: grey;
+    color: pink;
 }
