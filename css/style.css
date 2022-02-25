@@ -46,16 +46,20 @@ img {
 #Biography{
     text-align: center;
     margin-top: 60px;
-    font-size: 200%;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
 }
 
 .bio-image{
-    width: 15%;
+    width: 18%;
     margin: 50px 50px 50px 100px;
     float: left;
 }
 
-.bio-data{
-    font-size: 150%;
+p{
+    font-size: 130%;
+    font-family: 'Exo', sans-serif;
+    margin: 45px 100px 20px 0px;
+    line-height: 1.5;
 
 }
