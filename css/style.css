@@ -41,3 +41,21 @@ img {
     background-color: grey;
     color: pink;
 }
+
+
+#Biography{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 200%;
+}
+
+.bio-image{
+    width: 15%;
+    margin: 50px 50px 50px 100px;
+    float: left;
+}
+
+.bio-data{
+    font-size: 150%;
+
+}
